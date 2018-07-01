@@ -14,6 +14,17 @@ hr {
   border-color: #FE96CE;
 }
 
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #2C3E50;
+  color: #fff;
+}
+
+.copyright {
+  background-color: #1a252f;
+}
+
 hr.light {
   border-color: #fff;
 }
